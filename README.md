@@ -31,6 +31,7 @@ I design data platforms and bring machine learning into production. My backgroun
 
 Small, reproducible experiments in agent memory, retrieval, and reliable AI systems. Each note separates what the code demonstrates from what remains unmeasured.
 
+- [How four second places become first](https://medium.com/@anton.vlacenko/hindsights-agent-memory-how-four-second-places-become-first-3b9e676e7807) — an original rank-fusion experiment using Hindsight’s pinned implementation.
 - [The classifier’s 100% came from two missing labels](https://medium.com/@anton.vlacenko/the-classifiers-100-came-from-two-missing-labels-414b34e9c7d5) — why an omitted class is not a zero-probability class; a synthetic fixture against the actual parser.
 - [Can you take the reasons with the code?](https://medium.com/@anton.vlacenko/can-you-take-the-reasons-with-the-code-ffddc9c90f01) — an offline audit for project memory.
 
