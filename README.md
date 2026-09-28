@@ -27,10 +27,11 @@ I design data platforms and bring machine learning into production. My backgroun
 | [Autonomous code generation sandbox](https://github.com/AntonVlasenko/factory-codegen-sandbox) | A disposable Python target for an agent workflow: scoped task → implementation → pytest → pull request. An experiment, not a production framework. |
 | [Research workflow smoke test](https://github.com/AntonVlasenko/research-smoke) | A small validation target for a research workflow. |
 
-### Writing
+### Engineering notes
 
-[Can you take the reasons with the code?](https://medium.com/@anton.vlacenko/can-you-take-the-reasons-with-the-code-ffddc9c90f01) — an offline audit for project memory.
+Small, reproducible experiments in agent memory, retrieval, and reliable AI systems. Each note separates what the code demonstrates from what remains unmeasured.
 
-[Give scroll correction one owner](https://medium.com/@anton.vlacenko/give-scroll-correction-one-owner-b626f9346e77) — a practical look at scroll stability and rendering tradeoffs.
+- [The classifier’s 100% came from two missing labels](https://medium.com/@anton.vlacenko/the-classifiers-100-came-from-two-missing-labels-414b34e9c7d5) — why an omitted class is not a zero-probability class; a synthetic fixture against the actual parser.
+- [Can you take the reasons with the code?](https://medium.com/@anton.vlacenko/can-you-take-the-reasons-with-the-code-ffddc9c90f01) — an offline audit for project memory.
 
-[Medium](https://medium.com/@anton.vlacenko) · [X](https://x.com/AntonVlac)
+[More on Medium](https://medium.com/@anton.vlacenko) · [Short notes on X](https://x.com/AntonVlac)
