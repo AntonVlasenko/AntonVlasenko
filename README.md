@@ -31,6 +31,7 @@ I design data platforms and bring machine learning into production. My backgroun
 
 Small, reproducible experiments in agent memory, retrieval, and reliable AI systems. Each note separates what the code demonstrates from what remains unmeasured.
 
+- [PageIndex: success does not mean every requested page came back](https://medium.com/@anton.vlacenko/pageindex-success-does-not-mean-every-requested-page-came-back-fec04e444122) — five synthetic cases against the real local retrieval function; check returned page IDs and recover omissions before synthesizing.
 - [Paperclip’s $0 budget is not a stop button](https://medium.com/@anton.vlacenko/paperclips-0-budget-is-not-a-stop-button-5f9bd83999f0) — six synthetic boundary cases against the real budget-status helper; disabled caps and heartbeat pause are separate controls.
 - [How four second places become first](https://medium.com/@anton.vlacenko/hindsights-agent-memory-how-four-second-places-become-first-3b9e676e7807) — an original rank-fusion experiment using Hindsight’s pinned implementation.
 - [The classifier’s 100% came from two missing labels](https://medium.com/@anton.vlacenko/the-classifiers-100-came-from-two-missing-labels-414b34e9c7d5) — why an omitted class is not a zero-probability class; a synthetic fixture against the actual parser.
